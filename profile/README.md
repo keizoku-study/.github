@@ -1,5 +1,6 @@
-This organization is exists for the standalone version of keizoku study. 
-It is will not necessarily be up to date with the version that exists at https://github.com/Raeki/keithley.me/tree/main/pages/keizoku.
+This organization is exists for the standalone version of keizoku study.
+
+It is will not necessarily be up to date with the version that exists in the keithley.me monorepo at https://github.com/Raeki/keithley.me/tree/main/pages/keizoku.
 
 <!--
 
